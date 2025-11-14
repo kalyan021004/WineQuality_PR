@@ -17,7 +17,7 @@ const algorithms = [
     { id: "gb", name: "Gradient Boosting" },
     { id: "rf", name: "Random Forest" },
     { id: "svm", name: "Support Vector Machine" },
-    { id: "cat", name: "CatBoost" }
+    { id: "catboost", name: "CatBoost" }
 ];
 
 // Homepage
