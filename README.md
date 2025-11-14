@@ -27,10 +27,10 @@ This project presents a comprehensive comparative analysis of six state-of-the-a
 
 ## 👥 Authors
 
-**Venkata Kalyan Chittiboina** (S20230020358)  
-**Soorneedi Poorna Naga Sujit** (S20230020351)  
-**Vatam Rohith Reddy** (S20230020357)  
-**Yerukali Punarvitha** (S20230020361)  
+**Venkata Kalyan Chittiboina** 
+**Soorneedi Poorna Naga Sujit**  
+**Vatam Rohith Reddy** 
+**Yerukali Punarvitha** 
 
 *Department of Electronics and Communication Engineering*  
 *Indian Institute of Information Technology, Sri City*
