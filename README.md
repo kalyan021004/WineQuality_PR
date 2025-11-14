@@ -134,37 +134,15 @@ cd WineQuality_PR
 ```
 WineQuality_PR/
 │
-├── data/
-│   ├── winequality-red.csv
-│   └── winequality-white.csv
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_model_training.ipynb
-│   └── 04_model_evaluation.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-│   └── visualization.py
-│
-├── models/
-│   ├── svm_model.pkl
-│   ├── rf_model.pkl
-│   ├── gb_model.pkl
-│   ├── xgboost_model.pkl
-│   ├── lightgbm_model.pkl
-│   └── catboost_model.pkl
-│
-├── results/
-│   ├── confusion_matrices/
-│   ├── roc_curves/
-│   ├── performance_comparison.png
-│   └── accuracy_vs_speed.png
-│
+├── Ml_models/
+│   ├── wine_catboost.py
+│   └── wine_gradientboost.py
+|   ├── wine_lightgbm.py
+│   ├── wine_randomforest.py
+│   ├── wine_svm.py
+│   └── wine_xgboost.py
+|    
+|
 ├── requirements.txt
 ├── README.md
 └── LICENSE
