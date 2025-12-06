@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Classification – Complete Project (ALL-IN-ONE README)
+# Wine Quality Classification – Complete Project 
 
 This README contains **everything required for your project submission**, including:
 
